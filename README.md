@@ -100,7 +100,7 @@ Présentation du système d’authentification mis en place avec **Supabase Auth
 
 🎥 [Voir la démonstration Loom](https://www.loom.com/share/b8927fffcbf04eae9fbc96b87ecf6ae3?sid=7777ef40-caff-41aa-9ff6-47719aea6679)
 
-> À noter : une vérification supplémentaire a été ajoutée après l’enregistrement de la vidéo.  
+> 📌 À noter : une vérification supplémentaire a été ajoutée après l’enregistrement de la vidéo.  
 > Le système prend désormais en charge les redirections personnalisées via un paramètre `redirectUrl`, tout en s’assurant que l’URL cible figure bien parmi les destinations autorisées.  
 > Cela renforce la sécurité en bloquant toute tentative de redirection vers un domaine externe.
 
