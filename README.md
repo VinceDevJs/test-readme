@@ -4,6 +4,12 @@
 [![License: Proprietary](https://img.shields.io/badge/license-Proprietary-red.svg)](./LICENSE)
 ![Version](https://img.shields.io/badge/version-0.1.0-yellow)
 ![Made with Next.js](https://img.shields.io/badge/Made%20with-Next.js-000?logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3c9c3f?style=flat)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 
 Plateforme web moderne avec Next.js 15, Supabase, Prisma, TailwindCSS, et une interface pensée pour l’expérience utilisateur.
 
