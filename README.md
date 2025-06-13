@@ -1,7 +1,7 @@
 # 🪶 Twains
 
 [![Deployed on Vercel](https://img.shields.io/badge/deploy-Vercel-000?logo=vercel&logoColor=white)](https://twains.vercel.app)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+[![License: Proprietary](https://img.shields.io/badge/license-Proprietary-red.svg)](./LICENSE)
 ![Version](https://img.shields.io/badge/version-0.1.0-yellow)
 ![Made with Next.js](https://img.shields.io/badge/Made%20with-Next.js-000?logo=nextdotjs)
 
