@@ -39,13 +39,17 @@ Plateforme web moderne avec Next.js 15, Supabase, Prisma, TailwindCSS, et une in
 
 ```bash
 src/
-├── app/                  # Pages et routes via Next.js App Router
-│   └── auth/             # Pages liées à l'authentification (sign-in, sign-up)
-├── clients/              # Initialisation des clients Supabase et Prisma
-├── components/           # Composants UI réutilisables
-│   └── forms/            # Composants dédiés aux formulaires (SubmitButton, etc.)
-├── hooks/                # Hooks personnalisés (useToast, useDebounce, etc.)
-├── prisma/               # Schéma Prisma + types générés
+├── app/                      # Pages et routes via Next.js App Router
+│   └── auth/                 # Pages liées à l'authentification (sign-in, sign-up)
+│   └── contact/              # Pages contact
+│       └── _/                # Dossier
+│           └── _/_actions    # Dossier des actions lié a la page contact
+├── clients/                  # Initialisation des clients Supabase et Prisma
+├── components/               # Composants UI réutilisables
+│   └── forms/                # Composants dédiés aux formulaires (SubmitButton, etc.)
+│   └── ui/                   # Composants Shadcn
+├── hooks/                    # Hooks personnalisés (useToast, useDebounce, etc.)
+├── prisma/                   # Schéma Prisma + types générés
 ```
 ---
 
