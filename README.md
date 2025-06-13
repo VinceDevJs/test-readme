@@ -16,6 +16,7 @@ Plateforme web moderne avec Next.js 15, Supabase, Prisma, TailwindCSS, et une in
 - [📜 Scripts](#-scripts)
 - [⚙️ Fichier `.env.local`](#️-fichier-envlocal)
 - [🔐 Authentification](#-authentification)
+- [📱 Formulaire de contact](#-formulaire-de-contact)
 
 ---
 
@@ -109,3 +110,8 @@ Présentation du système d’authentification mis en place avec **Supabase Auth
 > Cela renforce la sécurité en bloquant toute tentative de redirection vers un domaine externe.
 
 
+## 🔐 Formulaire de contact
+
+Présentation du système d’authentification mis en place avec **Supabase Auth** :
+
+🎥 [Voir la démonstration Loom](https://www.loom.com/share/b8927fffcbf04eae9fbc96b87ecf6ae3?sid=7777ef40-caff-41aa-9ff6-47719aea6679)
